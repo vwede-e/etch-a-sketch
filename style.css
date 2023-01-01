@@ -10,10 +10,13 @@ body {
 
 .body {
     display: flex;
-    height: 100vh;
     justify-content: center;
     align-items: center;
     
+}
+
+.title {
+    padding: 40px 0;
 }
 
 .container {
@@ -34,8 +37,8 @@ body {
 }
 
 .grid {
-    width: 500px;
-    height: 500px;
+    width: 450px;
+    height: 450px;
     border: 1px solid black;
     display:flex;
     flex-wrap:wrap;
