@@ -1,1 +1,1 @@
-# etch-a-sketch
+etch-a-sketch game with HTML CSS and Javascript
